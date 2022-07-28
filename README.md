@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Vitoludde
 - 👀 I’m interested in Programming and Music
-- 🌱 I’m currently learning C/C++/C# and im continuing to learn Python
+- 🌱 I’m currently working on video game modding and development!
