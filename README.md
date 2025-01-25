@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Vitoludde
 - I have been programming for 6 years now as a hobby interest, I plan on educating myself at a masters level and hopefully obtaining a Degree of Master of Science in Engineering.
-- I have a great interest for games and I have several times developed mods, plugins. One of these is the mod Scandinavia United. It is a Hearts of Iron 4 mod (pinned to this github profile) that greatly expands how Sweden (and in the future the entire Scandiavian peninsula) works in the game by for example expanding the Focus tree (mission tree).
-- Currently working on game development (an in development game)
